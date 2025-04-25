@@ -15,6 +15,9 @@ import HelloWorld from './components/HelloWorld.vue'
   <div>
     aidhil
   </div>
+  <div>
+    muhammad
+  </div>
 </template>
 
 <style scoped>
